@@ -1,0 +1,11 @@
+pandas
+numpy
+xarray
+statsmodels
+seaborn
+numpy
+matplotlib
+sklearn
+dataretrieval
+geopandas
+keras
