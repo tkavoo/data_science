@@ -8,5 +8,3 @@ matplotlib
 sklearn
 git+https://github.com/DOI-USGS/dataretrieval-python.git
 geopandas
-tensorflow-cpu==2.15.0
-keras==2.15.0
